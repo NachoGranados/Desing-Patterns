@@ -1,0 +1,3 @@
+/home/nachogranados/GitHub/Desing-Patterns/Singleton/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nachogranados/GitHub/Desing-Patterns/Singleton/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nachogranados/GitHub/Desing-Patterns/Singleton/cmake-build-debug/CMakeFiles/Singleton.dir
